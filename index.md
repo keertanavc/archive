@@ -54,16 +54,16 @@ Indian Institute of Technology Madras, 2012-2016
   
 ### [Effect of Agglomeration in the Restaurant Industry](/pdf/sample_presentation.pdf)
 
-<img src="images/survival_model.png?raw=true" style="width:330px;height:250px;"/>
+<img src="images/survival_model.png?raw=true" style="width:330px;height:250px;display: block;margin-left: auto;margin-right: auto;"/>
   
 ---
 
 ### [Do People Prefer Tax Policies that Benefit Themselves?](http://example.com/)
-<img src="images/tax_demographic.png?raw=true" style="width:330px;height:250px;"/>
+<img src="images/tax_demographic.png?raw=true" style="width:330px;height:250px;display: block;margin-left: auto;margin-right: auto;"/>
 
 ---
 ### [Presidential Speech Analysis](http://example.com/)
-<img src="images/positive_president.png?raw=true" style="width:330px;height:250px;"/>
+<img src="images/positive_president.png?raw=true" style="width:330px;height:250px;display: block;margin-left: auto;margin-right: auto;"/>
 
 ---
 
