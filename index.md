@@ -22,13 +22,17 @@ Indian Institute of Technology Madras, 2012-2016
 <span class="a">AWS</span>
 <span class="a">OpenMP/MPI</span>
 <span class="a">Github</span>
+<br>
 <span class="a">LaTeX</span>
 <span class="a">Sisense (BI Tool)</span>
 <span class="a"></span>
 
+---
+
 ### Intermediate:
 <span class="a">HTML</span>
 <span class="a">CSS</span>
+
 ---
 
 ## Projects
