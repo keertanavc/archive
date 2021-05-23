@@ -48,12 +48,17 @@ Indian Institute of Technology Madras, 2012-2016
 ---
 
 ### [Professional Networks in Hollywood](/sample_page)
-<img src="images/hollywood_network.png?raw=true" style="width:300px;height:300px;"/>
-
+<center>
+  <img src="images/hollywood_network.png?raw=true" style="width:300px;height:300px;"/>
+<center/>
+  
 ---
+  
 ### [Effect of Agglomeration in the Restaurant Industry](/pdf/sample_presentation.pdf)
-<img src="images/survival_model.png?raw=true" style="width:500px;height:600px;"/>
-
+<center>
+  <img src="images/survival_model.png?raw=true" style="width:350px;height:300px;"/>
+<center/>
+  
 ---
 
 ### [Do People Prefer Tax Policies that Benefit Themselves?](http://example.com/)
