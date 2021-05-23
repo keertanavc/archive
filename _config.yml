@@ -1,4 +1,4 @@
-title: Keertana Chidambaram 2# your name (or website title) here
+title: Keertana Chidambaram # your name (or website title) here
 logo: "/images/mugshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Applied Data Fellow at <a href="http://www.iic.uchicago.edu/applied-data-fellowship">International Innovation Corps</a> 
@@ -9,6 +9,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="mailto:keertanavc@gmail.com">Email Me</a> 
   <br>
-  <a href="https://github.com/keertanavc" target="_blank"><img src=  "https://github.com/keertanavc/keertanavc.github.io/blob/images/linkedin.png"></a>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
