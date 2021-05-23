@@ -14,9 +14,9 @@ Indian Institute of Technology Madras, 2012-2016
 
 ---
 
-### Python
+### Proficient
 
-### C++
+### Intermediate
 
 ---
 
