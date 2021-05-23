@@ -20,7 +20,7 @@ Indian Institute of Technology Madras, 2012-2016
 
 ---
 
-## Portfolio
+## Projects
 
 ---
 
