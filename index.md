@@ -52,8 +52,9 @@ Indian Institute of Technology Madras, 2012-2016
 ## Contact Me
 
 ---
-<img src="images/linkedin.png?raw=true"/>
-
+<a href="https://www.linkedin.com/in/keertana-chidambaram-822920211/"><img src="images/linkedin.png?raw=true"style="width:50px;height:50px;"/></a> 
+<br>
+<a href="mailto:keertanavc@gmail.com">Email Me</a> 
 ---
 
 
