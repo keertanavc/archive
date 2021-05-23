@@ -15,12 +15,12 @@ Indian Institute of Technology Madras, 2012-2016
 ---
 <span class="a">Python</span>
 <span class="a">R</span>
-<span class="a">SQL</span>
 <span class="a">TensorFlow</span>
 <span class="a">Keras</span>
 <span class="a">AWS</span>
 <span class="a">OpenMP</span>
 <span class="a">MPI</span>
+<span class="a">SQL</span>
 <span class="a">Github</span>
 <br><br>
 <span class="a">LaTeX</span>
