@@ -38,7 +38,7 @@ Indian Institute of Technology Madras, 2012-2016
 
 ## Research Publications
 
-- [Chidambaram, Keertana V., and Nargis Pervin. "_Effect of Agglomeration in the Restaurant Industry._" (2018).
+- [Chidambaram, Keertana V., and Nargis Pervin. "_Effect of Agglomeration in the Restaurant Industry.", AMCIS 2018.
 ](https://github.com/keertanavc/Papers-and-Posters/blob/master/restaurant_agglomeration_working_paper.pdf)
 
 ---
