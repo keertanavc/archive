@@ -16,6 +16,8 @@ Indian Institute of Technology Madras, 2012-2016
 
 ### Proficient:
 <div class="boxBorder">Python</div>
+<div class="boxBorder">C++</div>
+<div class="boxBorder">SQL</div>
 
 ### Intermediate:
 
