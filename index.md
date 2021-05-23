@@ -3,7 +3,7 @@
 ---
 
 ### M.A. in Computational Social Science
-University of Chicago, 2018-20
+University of Chicago, 2018-2020
 
 ### B.Tech. in Mechanical Engineering
 Indian Institute of Technology Madras, 2012-2016
