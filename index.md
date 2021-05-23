@@ -48,16 +48,13 @@ Indian Institute of Technology Madras, 2012-2016
 ---
 
 ### [Professional Networks in Hollywood](/sample_page)
-<center>
-  <img src="images/hollywood_network.png?raw=true" style="width:300px;height:300px;"/>
-<center/>
+<img src="images/hollywood_network.png?raw=true" style="width:300px;height:300px;display: block;margin-left: auto;margin-right: auto;"/>
   
 ---
   
 ### [Effect of Agglomeration in the Restaurant Industry](/pdf/sample_presentation.pdf)
-<center>
-  <img src="images/survival_model.png?raw=true" style="width:350px;height:300px;"/>
-<center/>
+
+<img src="images/survival_model.png?raw=true" style="width:350px;height:300px;"/>
   
 ---
 
