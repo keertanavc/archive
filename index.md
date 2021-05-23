@@ -25,11 +25,11 @@ Indian Institute of Technology Madras, 2012-2016
 <br>
 <span class="a">LaTeX</span>
 <span class="a">Sisense (BI Tool)</span>
-<span class="a"></span>
 
 ---
 
 ### Intermediate:
+<span class="a">C++</span>
 <span class="a">HTML</span>
 <span class="a">CSS</span>
 
