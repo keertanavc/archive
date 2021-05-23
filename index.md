@@ -8,8 +8,15 @@ University of Chicago, 2018-2020
 ### B.Tech. in Mechanical Engineering
 Indian Institute of Technology Madras, 2012-2016
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
+## Skills
+
+---
+
+### Python
+
+### C++
 
 ---
 
