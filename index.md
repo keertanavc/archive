@@ -18,7 +18,6 @@ Indian Institute of Technology Madras, 2012-2016
 <p2>Python</p2>
 <p2>C++</p2>
 <p2>SQL</p2>
-<p2>TEXT</p2>
 
 <br><br>
 ### Intermediate:
