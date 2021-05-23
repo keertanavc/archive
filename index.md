@@ -13,8 +13,6 @@ Indian Institute of Technology Madras, 2012-2016
 ## Skills
 
 ---
-
-### Proficient:
 <span class="a">Python</span>
 <span class="a">R</span>
 <span class="a">SQL</span>
