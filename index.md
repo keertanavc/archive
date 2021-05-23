@@ -59,7 +59,7 @@ Indian Institute of Technology Madras, 2012-2016
 ---
 
 ### [Do People Prefer Tax Policies that Benefit Themselves?](http://example.com/)
-<img src="images/tax_demographic.png?raw=true" style="width:330px;height:250px;display: block;margin-left: auto;margin-right: auto;"/>
+<img src="images/tax_survey.png?raw=true" style="width:330px;height:250px;display: block;margin-left: auto;margin-right: auto;"/>
 
 ---
 ### [Presidential Speech Analysis](http://example.com/)
