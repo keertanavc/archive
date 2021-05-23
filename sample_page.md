@@ -1,7 +1,7 @@
 ## Professional Networks and Career Opportunities for Directors in Hollywood
 
 **Project description:** The broad theme of my master's thesis is to understand two research questions:
-(1) Which of the two - connection of merit plays a dominant role in predicting career opportunities in Hollywood
+(1) Which of the two - connection or merit plays a dominant role in predicting career opportunities in Hollywood
 (2) Distribution of resources in the industry
 
 **Data:** Data from several sources like IMDb, OMDb, Google search, numbers.com is used to build a network of directors, actors, writers, and production houses based on the movies they have collaborated on. 
