@@ -48,7 +48,7 @@ Indian Institute of Technology Madras, 2012-2016
 
 ---
 
-### [Professional Networks in Hollywood](/sample_page)
+### [Professional Networks in Hollywood](/imdb_network_project)
 <img src="images/hollywood_network.png?raw=true" style="width:250px;height:250px;display: block;margin-left: auto;margin-right: auto;"/>
   
 ---
