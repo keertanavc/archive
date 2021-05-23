@@ -1,11 +1,11 @@
 title: Keertana Chidambaram # your name (or website title) here
 logo: "/images/mugshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <p style="text-align:center">
   Applied Data Fellow at <a href="http://www.iic.uchicago.edu/applied-data-fellowship">International Innovation Corps</a> 
   <br><br>
   Easily excited about ML, algorithms, networks, and neat data visualizations
   <br><br>
-  <p style="text-align:center">
   <a href="https://www.linkedin.com/in/keertana-chidambaram-822920211/" target="_blank"><img src="images/linkedin.png?raw=true" style="width:35px;height:35px;"></a> 
   <a href="https://www.github.com/keertanavc" target="_blank"><img src="images/github.png?raw=true" style="width:35px;height:35px;"></a> 
   <a href="mailto:keertanavc@gmail.com" target="_blank"><img src="images/email.png?raw=true" style="width:35px;height:35px;"></a> 
