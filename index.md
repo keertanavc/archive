@@ -55,10 +55,6 @@ Indian Institute of Technology Madras, 2012-2016
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [Do People Prefer Tax Policies that Benefit Themselves?](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### [Do People Prefer Tax Policies that Benefit Themselves?](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
