@@ -16,12 +16,19 @@ Indian Institute of Technology Madras, 2012-2016
 
 ### Proficient:
 <span class="a">Python</span>
-<span class="a">C++</span>
+<span class="a">R</span>
 <span class="a">SQL</span>
+<span class="a">TensorFlow/Keras</span>
+<span class="a">AWS</span>
+<span class="a">OpenMP/MPI</span>
+<span class="a">Github</span>
+<span class="a">LaTeX</span>
+<span class="a">Sisense (BI Tool)</span>
+<span class="a"></span>
 
-<br><br>
 ### Intermediate:
-
+<span class="a">HTML</span>
+<span class="a">CSS</span>
 ---
 
 ## Projects
