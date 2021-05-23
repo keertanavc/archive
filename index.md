@@ -19,6 +19,7 @@ Indian Institute of Technology Madras, 2012-2016
 <div class="boxBorder">C++</div>
 <div class="boxBorder">SQL</div>
 
+<br><br>
 ### Intermediate:
 
 ---
