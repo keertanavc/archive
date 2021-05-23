@@ -12,7 +12,7 @@
 (1) Three models, LASSO regression, random forest, and neural network regressor/classifier, are fit to predict the target variables from the feature vectors.
 (2) To understand the resource allocation in the industry, a blockmodel analysis is performed and descriptive statistics are used.
 
-**Findingd:**
+**Findings:**
 - For all three models, it is shown that network variables have higher predictive power implying that connections are more important than merit in determining Hollywod careers of directors.
 - Descriptive analysis and the blockmodel analysis show that resources are concentrated at the top and top directors and producers prefer to work with each other.
 
