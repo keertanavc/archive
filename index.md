@@ -40,27 +40,32 @@ Indian Institute of Technology Madras, 2012-2016
 
 ---
 
-### [Project 1 Title](/sample_page)
+### [Professional Networks in Hollywood](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [Project 2 Title](/pdf/sample_presentation.pdf)
+### [Effect of Agglomeration in the Restaurant Industry](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [Project 3 Title](http://example.com/)
+### [Do People Prefer Tax Policies that Benefit Themselves?](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### [Do People Prefer Tax Policies that Benefit Themselves?](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+### [Presidential Speech Analysis](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Research Publications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Chidambaram, Keertana V., and Nargis Pervin. "_Effect of Agglomeration in the Restaurant Industry._" (2018).
+](https://aisel.aisnet.org/amcis2018/eBusiness/Presentations/4/)
 ---
 
 
