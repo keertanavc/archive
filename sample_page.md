@@ -1,31 +1,14 @@
-## This can be your internal website page / project page
+## Professional Networks and Career Opportunities for Directors in Hollywood
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** The broad theme of my master's thesis is to understand (1) how career opportunities are distributed in Hollywood, and (2) whether connection or metrit plays a more dominant role in predicting the career opportunities that directors receive. Data from several sources like IMDb is used to build a network of directors, actors, writers, and production houses is generated based on the movies they have collaborated on. Feature vectors for connections are modeled using graph algorithms like centrality and connectedness measures. Merit feature vectors consists of movie ratings, box office collections, awards etc. The target variables are opportunities defined by number of movies, production budgets raised, and career continuity.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Resources are concentrated at the top. Most top production houses work exclusively with top directors.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Tools and models used: 
+- Data collection: OMDb API, BeautifulSoup, MPI, 
+- Analysis: [CONCOR](https://www.r-bloggers.com/2015/05/concor-in-r/), AWS Spark, NetworkX, GraphX, scipy
+- Visualization: seaborn,
 
-### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+See [this](https://github.com/keertanavc/Hollywood-Network-Analysis/tree/master/Network%20Project) directory for codes and the final report.
