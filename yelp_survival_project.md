@@ -13,7 +13,7 @@ The restaurants performance, product offering, discounts etc. are used as contro
 
 **Models:**
 The main model used in the study is a Cox proportional hazards model. 
-This is a survival model that model time to event, in our case failure of restaurant.
+This is a survival model that models the time to event, in our case the failure of the restaurant.
 
 **Findings:**
 - Improvement in neighbor performance (footfall and ratings) was detrimental to a restaurant’s survival
