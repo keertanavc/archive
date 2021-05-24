@@ -18,7 +18,7 @@
 
 **Tools and models used:**
 - Data Collection: OMDb API, BeautifulSoup, MPI, 
-- Analysis: [CONCOR](https://www.r-bloggers.com/2015/05/concor-in-r/), AWS Spark, NetworkX, GraphX, scipy
+- Analysis: PySpark ML, scipy, NetworkX, GraphX, [CONCOR](https://www.r-bloggers.com/2015/05/concor-in-r/), 
 - Visualization: [Gephi](https://gephi.org/), seaborn, MS Excel
 
 
