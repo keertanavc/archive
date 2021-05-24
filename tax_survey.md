@@ -8,4 +8,4 @@ We found that gender, political affiliation, and age significantly affects tax b
 I also tried a small prediction challenge to fit a decision tree to predict tax behaviour from demographic data.
 
 
-See [this](https://github.com/keertanavc/Hollywood-Network-Analysis/tree/master/Network%20Project) directory for codes and the final report.
+See [this](https://github.com/keertanavc/Papers-and-Posters/blob/master/Keertana_Tax_Preference.pdf) for my final poster.
