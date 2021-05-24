@@ -64,7 +64,7 @@ Indian Institute of Technology Madras, 2012-2016
 <img src="images/tax.png?raw=true" style="width:390px;height:260px;display: block;margin-left: auto;margin-right: auto;"/>
 
 ---
-### [Presidential Speech Analysis](http://example.com/)
+### [Presidential Speech Analysis](/president_speech)
 <img src="images/positive_president.png?raw=true" style="width:330px;height:250px;display: block;margin-left: auto;margin-right: auto;"/>
 
 ---
