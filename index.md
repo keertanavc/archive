@@ -23,9 +23,9 @@ Indian Institute of Technology Madras, 2012-2016
 <span class="a">SQL</span>
 <span class="a">Sisense (BI Tool)</span>
 <br><br>
-<span class="a">LaTeX</span>
-<span class="a">HTML</span>
 <span class="a">Github</span>
+<span class="a">HTML</span>
+<span class="a">LaTeX</span>
 
 
 ---
