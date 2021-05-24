@@ -31,6 +31,7 @@ Indian Institute of Technology Madras, 2012-2016
 #### Working Knowledge:
 <span class="a">C++</span>
 <span class="a">MATLAB</span>
+<span class="a">STATA</span>
 <span class="a">UNIX</span>
 <span class="a">HTML</span>
 <span class="a">CSS</span>
