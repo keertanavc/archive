@@ -1,6 +1,6 @@
 ## Professional Networks and Career Opportunities for Directors in Hollywood
 
-**Project description:** The broad theme of my master's thesis is to understand two research questions:
+**Project Description:** The broad theme of my master's thesis is to understand two research questions:
 1. Which of the two - connection or merit plays a dominant role in predicting career opportunities in Hollywood
 2. Distribution of resources in the industry
 
