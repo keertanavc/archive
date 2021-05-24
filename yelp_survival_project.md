@@ -1,6 +1,6 @@
 ## Effect of Agglomeration in the Restaurant Industry
 
-**Project Description:** Although competition can dwindle the sales of a restaurant, it is found that restaurants tend to collocate with their competitors. 
+**Project Description:** Although competition can dwindle the sales of a restaurant, restaurants often tend to collocate with their competitors. 
 Despite the associated costs, physical proximity to competitors can lead to positive externalities like increased demand and improved efficiency.
 We empirically examine the effect of agglomeration in the restaurant industry by understanding how the type and performance of neighboring competitors affect a restaurant. 
 
