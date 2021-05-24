@@ -20,7 +20,7 @@ This is a survival model that model time to event, in our case failure of restau
 - Collocating with restaurants operating in the same price bracket had a positive influence while neighbors’ food cuisine did not make a difference
 - Franchises did better in neighborhoods crowded with other franchises and vice versa for non- affiliated restaurants
 
-Tools and models used: 
+**Tools and models used:**
 - Data Collection: Google MAPs API, Census Data API
 - Analysis: Cox Proportional Hazards Model in STATA
 
