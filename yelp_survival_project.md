@@ -4,7 +4,7 @@
 Despite the associated costs, physical proximity to competitors can lead to positive externalities like increased demand and improved efficiency.
 We empirically examine the effect of agglomeration in the restaurant industry by understanding how the type and performance of neighboring competitors affect a restaurant. 
 
-**Data:** A time series data is constructed from Yelp Data Challenge 2018's data, this is the primary data source.
+**Data:** The main datatset is a time series data constructed from Yelp data, this is the primary data source.
 Other sources are US census data and Google Maps API.
 
 **Feature Engineering:** The target variable is a binary 0/1 marking the survival of the resturant based on Yelp. 
