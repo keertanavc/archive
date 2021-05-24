@@ -4,22 +4,25 @@
 Despite the associated costs, physical proximity to competitors can lead to positive externalities like increased demand and improved efficiency.
 We empirically examine the effect of agglomeration in the restaurant industry by understanding how the type and performance of neighboring competitors affect a restaurant. 
 
-**Data:** Data from several sources like IMDb, OMDb, Google search, numbers.com is used to build a network of directors, actors, writers, and production houses based on the movies they have collaborated on. 
+**Data:** A time series data is constructed from Yelp Data Challenge 2018's data, this is the primary data source.
+Other sources are US census data and Google Maps API.
 
-**Feature Engineering:** Feature variables for connections are modeled using graph algorithms like centrality and connectedness measures. Feature vectors representing merit are movie ratings, box office collections, awards etc. The target variables are opportunities measured by the number of movies, production budgets raised, and career continuity. 
+**Feature Engineering:** The target variable is a binary 0/1 marking the survival of the resturant based on Yelp. 
+To understand the effect of neighboring restaurants, variables measuring neighbor's performance, product, and affiliation.
+The restaurants performance, product offering, discounts etc. are used as control variables.
 
 **Models:**
-(1) Three models, LASSO regression, random forest, and neural network regressor/classifier, are fit to predict the target variables from the feature vectors.
-(2) To understand the resource allocation in the industry, a blockmodel analysis is performed and descriptive statistics are used.
+The main model used in the study is a Cox proportional hazards model. 
+This is a survival model that model time to event, in our case failure of restaurant.
 
 **Findings:**
-- For all three models, it is shown that network variables have lower RMSE implying that connections are more important than merit in determining Hollywod careers of directors.
-- Descriptive analysis and the blockmodel analysis show that resources are concentrated at the top and top directors and producers prefer to work with each other.
+- Improvement in neighbor performance (footfall and ratings) was detrimental to a restaurant’s survival
+- Collocating with restaurants operating in the same price bracket had a positive influence while neighbors’ food cuisine did not make a difference
+- Franchises did better in neighborhoods crowded with other franchises and vice versa for non- affiliated restaurants
 
 Tools and models used: 
-- Data Collection: OMDb API, BeautifulSoup, MPI, 
-- Analysis: [CONCOR](https://www.r-bloggers.com/2015/05/concor-in-r/), AWS Spark, NetworkX, GraphX, scipy
-- Visualization: [Gephi](https://gephi.org/), seaborn, MS Excel
+- Data Collection: Google MAPs API, Census Data API
+- Analysis: Cox Proportional Hazards Model in STATA
 
 
-See [this](https://github.com/keertanavc/Hollywood-Network-Analysis/tree/master/Network%20Project) directory for codes and the final report.
+Check [this](https://github.com/keertanavc/Papers-and-Posters/blob/master/restaurant_agglomeration_working_paper.pdf) report for more details.
