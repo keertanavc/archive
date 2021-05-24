@@ -17,8 +17,8 @@
 - Descriptive analysis and the blockmodel analysis show that resources are concentrated at the top and top directors and producers prefer to work with each other.
 
 **Tools and models used:**
-- Data Collection: OMDb API, BeautifulSoup, MPI, 
-- Analysis: PySpark ML, scipy, NetworkX, GraphX, [CONCOR](https://www.r-bloggers.com/2015/05/concor-in-r/), 
+- Data Collection: OMDb API, BeautifulSoup, MPI
+- Analysis: PySpark ML, scipy, NetworkX, GraphX, [CONCOR](https://www.r-bloggers.com/2015/05/concor-in-r/)
 - Visualization: [Gephi](https://gephi.org/), seaborn, MS Excel
 
 
