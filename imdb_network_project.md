@@ -16,7 +16,7 @@
 - For all three models, it is shown that network variables have lower RMSE implying that connections are more important than merit in determining Hollywod careers of directors.
 - Descriptive analysis and the blockmodel analysis show that resources are concentrated at the top and top directors and producers prefer to work with each other.
 
-Tools and models used: 
+**Tools and models used:**
 - Data Collection: OMDb API, BeautifulSoup, MPI, 
 - Analysis: [CONCOR](https://www.r-bloggers.com/2015/05/concor-in-r/), AWS Spark, NetworkX, GraphX, scipy
 - Visualization: [Gephi](https://gephi.org/), seaborn, MS Excel
